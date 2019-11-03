@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: 3d59993c8470b8645a1b3366be97f38b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: berserker_spritesheet_0
+    21300002: berserker_spritesheet_1
+    21300004: berserker_spritesheet_2
+    21300006: berserker_spritesheet_3
+    21300008: berserker_spritesheet_4
+    21300010: berserker_spritesheet_5
+    21300012: berserker_spritesheet_6
+    21300014: berserker_spritesheet_7
+    21300016: berserker_spritesheet_8
+    21300018: berserker_spritesheet_9
+    21300020: berserker_spritesheet_10
+    21300022: berserker_spritesheet_11
+    21300024: berserker_spritesheet_12
+    21300026: berserker_spritesheet_13
+    21300028: berserker_spritesheet_14
+    21300030: berserker_spritesheet_15
+    21300032: berserker_spritesheet_16
+    21300034: berserker_spritesheet_17
+    21300036: berserker_spritesheet_18
+    21300038: berserker_spritesheet_19
+    21300040: berserker_spritesheet_20
+    21300042: berserker_spritesheet_21
+    21300044: berserker_spritesheet_22
+    21300046: berserker_spritesheet_23
+    21300048: berserker_spritesheet_24
+    21300050: berserker_spritesheet_25
+    21300052: berserker_spritesheet_26
+    21300054: berserker_spritesheet_27
+    21300056: berserker_spritesheet_28
+    21300058: berserker_spritesheet_29
+    21300060: berserker_spritesheet_30
+    21300062: berserker_spritesheet_31
+    21300064: berserker_spritesheet_32
+    21300066: berserker_spritesheet_33
+    21300068: berserker_spritesheet_34
+    21300070: berserker_spritesheet_35
+    21300072: berserker_spritesheet_36
+    21300074: berserker_spritesheet_37
+    21300076: berserker_spritesheet_38
+    21300078: berserker_spritesheet_39
+    21300080: berserker_spritesheet_40
+    21300082: berserker_spritesheet_41
+    21300084: berserker_spritesheet_42
+    21300086: berserker_spritesheet_43
+    21300088: berserker_spritesheet_44
+    21300090: berserker_spritesheet_45
+    21300092: berserker_spritesheet_46
+    21300094: berserker_spritesheet_47
+    21300096: berserker_spritesheet_48
+    21300098: berserker_spritesheet_49
+    21300100: berserker_spritesheet_50
+    21300102: berserker_spritesheet_51
+    21300104: berserker_spritesheet_52
+    21300106: berserker_spritesheet_53
+    21300108: berserker_spritesheet_54
+    21300110: berserker_spritesheet_55
+    21300112: berserker_spritesheet_56
+    21300114: berserker_spritesheet_57
+    21300116: berserker_spritesheet_58
+    21300118: berserker_spritesheet_59
+    21300120: berserker_spritesheet_60
+    21300122: berserker_spritesheet_61
+    21300124: berserker_spritesheet_62
+    21300126: berserker_spritesheet_63
+    21300128: berserker_spritesheet_64
+    21300130: berserker_spritesheet_65
+    21300132: berserker_spritesheet_66
+    21300134: berserker_spritesheet_67
+    21300136: berserker_spritesheet_68
+    21300138: berserker_spritesheet_69
+    21300140: berserker_spritesheet_70
+    21300142: berserker_spritesheet_71
+    21300144: berserker_spritesheet_72
+    21300146: berserker_spritesheet_73
+    21300148: berserker_spritesheet_74
+    21300150: berserker_spritesheet_75
+    21300152: berserker_spritesheet_76
+    21300154: berserker_spritesheet_77
+    21300156: berserker_spritesheet_78
+    21300158: berserker_spritesheet_79
+    21300160: berserker_spritesheet_80
+    21300162: berserker_spritesheet_81
+    21300164: berserker_spritesheet_82
+    21300166: berserker_spritesheet_83
+    21300168: berserker_spritesheet_84
+    21300170: berserker_spritesheet_85
+    21300172: berserker_spritesheet_86
+    21300174: berserker_spritesheet_87
+    21300176: berserker_spritesheet_88
+    21300178: berserker_spritesheet_89
+    21300180: berserker_spritesheet_90
+    21300182: berserker_spritesheet_91
+    21300184: berserker_spritesheet_92
+    21300186: berserker_spritesheet_93
+    21300188: berserker_spritesheet_94
+    21300190: berserker_spritesheet_95
+    21300192: berserker_spritesheet_96
+    21300194: berserker_spritesheet_97
+    21300196: berserker_spritesheet_98
+    21300198: berserker_spritesheet_99
+    21300200: berserker_spritesheet_100
+    21300202: berserker_spritesheet_101
+    21300204: berserker_spritesheet_102
+    21300206: berserker_spritesheet_103
+    21300208: berserker_spritesheet_104
+    21300210: berserker_spritesheet_105
+    21300212: berserker_spritesheet_106
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 55
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: berserker_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 564
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afafbb1faad658a499f359a6bac71e6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 564
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2b6a1dfd7b60a43ae2d4762c3aed92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 525
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399ed2c2f3ff40649989b32362f84e99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 525
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b088359c71b591041a66eb0ca11c6c44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 525
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8045c9a40bd2e3a49bdaf02dba19b1d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 525
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6caf71237de44a4aac1cd6350545832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 524
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bc9e3285491914895d53f2e6510c30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 524
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b877a75a13af24eae9906c509ae83b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 525
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d88ce8e78842aa4da684b8fb4073445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 525
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187d65539813f0a408a9629b2b4785eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 548
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8a1f42eb9b4f44e8631a4378ad8fb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 533
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6265b96b884cb4e9cab7b3a367a7e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 455
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc3793eab99b4b4697df780a9618514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 455
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae289286783369549b6c10aaaf0c4c7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 455
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ab39bb8ec35154e92979876125b0fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 455
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac5e27c707772d4fb4c10c9128495a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 454
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b999fb8779b4440adcc66e130f6d7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 455
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf890dac410362249927bf1ab704b9d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 455
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6af802bfece0a74083224a372c7148e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 455
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374acb3ed56cf6c40830cc1246c16ef5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 385
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8cf33638d6ff94989bcbd79cddf620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 385
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635b436a64fd62142b6e7dc0cc0929e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 385
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8837fac973a5e4444b8f4e0fde20b696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 386
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dab56bc358b8114c9c86806c73aca16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 385
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b12f8d60e71bd47af119a9dc807960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 385
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd86b3f50e3e30241b250477ce93980d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 384
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff580e8a1051c764f9b8fda45b905087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ee8db4fe5209b429b5ea49f180d4fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 312
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e85042874ce164c96b7303980ce34a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 312
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c771d03d8786964dbe98289f51b3e86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 314
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cadff7e4ca3bc46865161f1fa57067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 313
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d5efc2f7fdf1a4d96650dbf6e288ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 313
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9029cd0e13ec85489b3c23d7639a436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 312
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2735f3d314f25f642a643a8fd276ec96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 312
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca267ad8c3d0534096816dfc8085ca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 312
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20769a9f416073b40af0609252ea7563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 238
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dae2c9f5bb8384785fbac955b03ebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 238
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6806d86dcea472e43ab75e48e43be06b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 238
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204b2db1fd0840d4ebc7ace77e74aeb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 238
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf854f8c51e6044197865bf61aeb203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 238
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e5252562459064484a21176b4da76b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 238
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c895c283967d8c468521b9b0b4b8f7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 238
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e828d205b145f40958f58bc8db294b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 238
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75033e9026e0fbd4f82b769d5e2dde38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 192
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a35eba0a45852547899d1947f3d047d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 170
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ac06eeb502d1a4b980371fab25b539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 169
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe7b1a0d7f46cf41a4f4dc68637100e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 169
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6176786f6c74e94a9e0a2576c2de402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 169
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389c7e35da736e54dbe658bfda0f9ed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 169
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74284372912e037488875bb0150e2143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 169
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3195bfff9814c0e4ea48de609074c8e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 171
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0484b01706921ee498c57cb9632799fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 170
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643bb318169bebd45a555d21e515aa74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 96
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd26c747f41004247b2915e7515f0aed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 95
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e293e20596318274d8bf2262bd2bce2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 95
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f673147066ebd749850cf7ae112222a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 95
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59dc9e5edd99a94f922b839c7202c26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 95
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a90c43dd89ea6041866ac5ff5f02288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 95
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b2149087806b646953f50fdf42f260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 95
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f43e04a89a07849a00b0aa162f16ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 96
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a234dfbf0b27cc24dbcf95ce6976e048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 18
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22ac6fa655f28d47b08aef8d47fb45c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 16
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d321b5e4bc6bfc409b4920be9d4e87f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 16
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f79347f31d446408261920f5ed9663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 17
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2228c0e704d070f47b4ab0e01fcff73a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 18
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2d230904c636043b464eb61e598c68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 17
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629e1a6b361818449add160874145114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 17
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c325df6a178d394a83868be1a1d2778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 18
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c8c5d721b814d44bd6240b3230a927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 529
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a77d562ee4f6943af90c432d86ec25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 525
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1fc2a2933072e47b69f7d08dd5082f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 526
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf38b39b7b00a434080c365d9d4b0aac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 518
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee99a71d4b557140adc85f2a4dd8547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 526
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a79c70a1131e548bf012563bf11522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 524
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9f969b88e076a4c88f680492c48182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 523
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8c90fb1eed2aa4a8db082848c5c11a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserker_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 522
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7574e9b4af9618640a054b363fa73031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7b498c76459a89742949c1257de8459c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
